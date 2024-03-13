@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "7a57",
+      "cityName": "Vellore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-13T10:31:08.116Z",
+      "notes": "",
+      "position": {
+        "lat": "12.90685951782613",
+        "lng": "79.13726806640626"
+      }
+    },
+    {
+      "id": "8cd2",
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-03-13T10:31:41.747Z",
+      "notes": "",
+      "position": {
+        "lat": "12.92961458098724",
+        "lng": "77.60742187500001"
+      }
+    },
+    {
+      "id": "9f47",
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-03-13T10:32:12.798Z",
+      "notes": "",
+      "position": {
+        "lat": "35.68295607559029",
+        "lng": "139.76394653320315"
+      }
+    },
+    {
+      "id": "632b",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-13T10:36:11.547Z",
+      "notes": "",
+      "position": {
+        "lat": "48.84302835299519",
+        "lng": "2.3565673828125"
+      }
+    }
+  ]
+}
